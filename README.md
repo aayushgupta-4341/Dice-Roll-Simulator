@@ -12,7 +12,7 @@ An interactive and feature-rich **Dice Roll Simulator** built using **HTML, CSS,
 
 ## 📂 GitHub Repository
 
-🔗 https://github.com/your-username/Dice-Roll-Simulator
+[🔗 https://github.com/your-username/Dice-Roll-Simulator](https://github.com/aayushgupta-4341/Dice-Roll-Simulator.git)
 
 ---
 
