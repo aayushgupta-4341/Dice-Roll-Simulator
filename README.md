@@ -38,7 +38,7 @@ An interactive and feature-rich **Dice Roll Simulator** built using **HTML, CSS,
 
 ## 📸 Screenshot
 
-![App Screenshot](./assets/screenshot.png)
+<img width="1918" height="962" alt="image" src="https://github.com/user-attachments/assets/d65ef557-1f98-4714-8e9e-5a7176c5ff50" />
 
 ---
 
